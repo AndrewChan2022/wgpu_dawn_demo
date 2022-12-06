@@ -1,0 +1,8 @@
+
+/dawn_example_ios/build
+
+### macOS ###
+*.DS_Store
+
+### Windows ###
+Thumbs.db
